@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "userId": "demo_uid",
+    "author": "Mama Adaeze",
+    "handle": "@adaeze_roots",
+    "avatar": "🌿",
+    "avatarBg": "#5C7A3E",
+    "category": "recipe",
+    "recipeAge": "kids",
+    "recipeTime": "morning",
+    "tag": "Recipe",
+    "tagColor": "#D97706",
+    "time": "2h ago",
+    "title": "Moringa & Millet Porridge",
+    "body": "Every morning my grandmother made this for us...",
+    "image": "🌾",
+    "imageBg": "linear-gradient(135deg, #6B8E4E 0%, #A0C060 100%)",
+    "likes": 142,
+    "comments": 38,
+    "liked": false,
+    "saved": false,
+    "bookmarked": false,
+    "reposts": 14,
+    "reposted": false,
+    "isVideo": false,
+    "followers": 600000
+  },
+  ...
+]

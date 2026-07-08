@@ -1,0 +1,7 @@
+{
+  "1": [
+    { "id": 1, "user": "Aisha M.", "avatar": "🌺", "text": "My mother used to make this too! Thank you for sharing this memory.", "likes": 12, "liked": false, "replies": [ { "id": 11, "user": "Mama Adaeze", "avatar": "🌿", "text": "Wonderful! Our grandmothers were the best healers 💚", "likes": 4, "liked": false } ] },
+    { "id": 2, "user": "John K.", "avatar": "🌱", "text": "Just tried this for the first time. Absolutely nourishing!", "likes": 7, "liked": false, "replies": [] }
+  ],
+  ...
+}
